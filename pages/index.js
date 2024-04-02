@@ -1,5 +1,5 @@
 function home(){
-    return <h1>Boa noite!! Eu te amooo!!
+    return <h1>Git/Github
     </h1>
 }
 
