@@ -1,5 +1,5 @@
-function Home(){
-    return <h1>Git/Github</h1>
+function Home() {
+    return <h1>Itallo&Raffa</h1>
 }
 
 export default Home;
